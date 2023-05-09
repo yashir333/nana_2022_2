@@ -1,0 +1,22 @@
+Documentation for Breakable Pots
+
+The pots themselves are simple meshes using a custom collision mesh and a custom shader to allow some variation
+in hue and brightness.
+
+The broken versions of the pot are much more complex in geometry and are set up with
+a mesh collider and rigidbody to fall using the physics in unity.
+
+The breakable script is put on the intact model and is responsible for how the breaking can be
+triggered and what happens to it after that. When a break happens the script will remove the components
+that were responsible for showing the intact version and instantiate the broken version. 
+
+That breaking can be accessed via a public method, which is demonstrated by the bomb script, which also 
+drives the effects on that prefab.
+
+The bomb has several parts: The body is just a regular mesh with a simple shader, the fuse which has a special
+shader to make it burn down when the script changes the according parameter in the material and finally two vfx graph
+effcts. One is just the sparks of the fuse while the other is the actual explosion.
+
+The same bomb script then uses the second script, the impulse, to actually call the public functions on the breakable script
+the pots have to make them break, as well as some physics code to apply force to the broken parks so it all looks the part.
+
