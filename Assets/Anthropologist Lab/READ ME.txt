@@ -1,0 +1,16 @@
+------	GENERAL INFO:
+	- Unity Versione: 2019.3.11
+	- Project Template: HDRP (High Definition Render Pipeline).
+	- Materials and Shaders only work in HDRP mode.
+
+------ 	MANUAL INSTALLATION:
+	Extract the package "Anthropologist Lab (HDRP)" into the Assets folder of your project.
+
+------  SCENE INFO:
+	You can play the game scene of this package opening the file "Anthropologist Lab" inside the Assets folder ("\Anthropologist Lab (HDRP)\Anthropologist Lab\Scenes\Anthropologist Lab.unity").
+	If you want to use the right HDRP settings for the scene, you have to use the file from this package ("\Anthropologist Lab\HDRP Settings\HDRPSettings.asset").
+
+------	CONTENT:
+	You can use a lot of prefabs which you can put into your scene, such as boxes, cabinets, skulls, lamps and a wide variety of lab tools.
+	There are also some custom shaders for some models which use opacity maps.
+	Lastly, there are interactable doors and cabinets, which can be opened and closed.
