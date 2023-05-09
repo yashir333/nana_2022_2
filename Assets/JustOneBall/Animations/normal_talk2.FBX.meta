@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: d764dabbd9323684ba4db3a4916f352c
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ARMS
+  - first:
+      1: 100002
+    second: BALL
+  - first:
+      1: 100004
+    second: BALL 1
+  - first:
+      1: 100006
+    second: BALL eyebrows
+  - first:
+      1: 100008
+    second: BALL Head
+  - first:
+      1: 100010
+    second: BALL jaw
+  - first:
+      1: 100012
+    second: BALL L Calf
+  - first:
+      1: 100014
+    second: BALL L Clavicle
+  - first:
+      1: 100016
+    second: BALL L eye
+  - first:
+      1: 100018
+    second: BALL L Finger0
+  - first:
+      1: 100020
+    second: BALL L Finger01
+  - first:
+      1: 100022
+    second: BALL L Finger02
+  - first:
+      1: 100024
+    second: BALL L Finger1
+  - first:
+      1: 100026
+    second: BALL L Finger11
+  - first:
+      1: 100028
+    second: BALL L Finger12
+  - first:
+      1: 100030
+    second: BALL L Finger2
+  - first:
+      1: 100032
+    second: BALL L Finger21
+  - first:
+      1: 100034
+    second: BALL L Finger22
+  - first:
+      1: 100036
+    second: BALL L Finger3
+  - first:
+      1: 100038
+    second: BALL L Finger31
+  - first:
+      1: 100040
+    second: BALL L Finger32
+  - first:
+      1: 100042
+    second: BALL L Foot
+  - first:
+      1: 100044
+    second: BALL L Forearm
+  - first:
+      1: 100046
+    second: BALL L Hand
+  - first:
+      1: 100048
+    second: BALL L Thigh
+  - first:
+      1: 100050
+    second: BALL L Toe0
+  - first:
+      1: 100052
+    second: BALL L UpperArm
+  - first:
+      1: 100054
+    second: BALL Neck
+  - first:
+      1: 100056
+    second: BALL Pelvis
+  - first:
+      1: 100058
+    second: BALL R Calf
+  - first:
+      1: 100060
+    second: BALL R Clavicle
+  - first:
+      1: 100062
+    second: BALL R eye
+  - first:
+      1: 100064
+    second: BALL R Finger0
+  - first:
+      1: 100066
+    second: BALL R Finger01
+  - first:
+      1: 100068
+    second: BALL R Finger02
+  - first:
+      1: 100070
+    second: BALL R Finger1
+  - first:
+      1: 100072
+    second: BALL R Finger11
+  - first:
+      1: 100074
+    second: BALL R Finger12
+  - first:
+      1: 100076
+    second: BALL R Finger2
+  - first:
+      1: 100078
+    second: BALL R Finger21
+  - first:
+      1: 100080
+    second: BALL R Finger22
+  - first:
+      1: 100082
+    second: BALL R Finger3
+  - first:
+      1: 100084
+    second: BALL R Finger31
+  - first:
+      1: 100086
+    second: BALL R Finger32
+  - first:
+      1: 100088
+    second: BALL R Foot
+  - first:
+      1: 100090
+    second: BALL R Forearm
+  - first:
+      1: 100092
+    second: BALL R Hand
+  - first:
+      1: 100094
+    second: BALL R Thigh
+  - first:
+      1: 100096
+    second: BALL R Toe0
+  - first:
+      1: 100098
+    second: BALL R UpperArm
+  - first:
+      1: 100100
+    second: BALL Spine
+  - first:
+      1: 100102
+    second: BALLeyes
+  - first:
+      1: 100104
+    second: LEGS
+  - first:
+      1: 100106
+    second: //RootNode
+  - first:
+      1: 100108
+    second: ROOT
+  - first:
+      1: 100110
+    second: tooth
+  - first:
+      4: 400000
+    second: ARMS
+  - first:
+      4: 400002
+    second: BALL
+  - first:
+      4: 400004
+    second: BALL 1
+  - first:
+      4: 400006
+    second: BALL eyebrows
+  - first:
+      4: 400008
+    second: BALL Head
+  - first:
+      4: 400010
+    second: BALL jaw
+  - first:
+      4: 400012
+    second: BALL L Calf
+  - first:
+      4: 400014
+    second: BALL L Clavicle
+  - first:
+      4: 400016
+    second: BALL L eye
+  - first:
+      4: 400018
+    second: BALL L Finger0
+  - first:
+      4: 400020
+    second: BALL L Finger01
+  - first:
+      4: 400022
+    second: BALL L Finger02
+  - first:
+      4: 400024
+    second: BALL L Finger1
+  - first:
+      4: 400026
+    second: BALL L Finger11
+  - first:
+      4: 400028
+    second: BALL L Finger12
+  - first:
+      4: 400030
+    second: BALL L Finger2
+  - first:
+      4: 400032
+    second: BALL L Finger21
+  - first:
+      4: 400034
+    second: BALL L Finger22
+  - first:
+      4: 400036
+    second: BALL L Finger3
+  - first:
+      4: 400038
+    second: BALL L Finger31
+  - first:
+      4: 400040
+    second: BALL L Finger32
+  - first:
+      4: 400042
+    second: BALL L Foot
+  - first:
+      4: 400044
+    second: BALL L Forearm
+  - first:
+      4: 400046
+    second: BALL L Hand
+  - first:
+      4: 400048
+    second: BALL L Thigh
+  - first:
+      4: 400050
+    second: BALL L Toe0
+  - first:
+      4: 400052
+    second: BALL L UpperArm
+  - first:
+      4: 400054
+    second: BALL Neck
+  - first:
+      4: 400056
+    second: BALL Pelvis
+  - first:
+      4: 400058
+    second: BALL R Calf
+  - first:
+      4: 400060
+    second: BALL R Clavicle
+  - first:
+      4: 400062
+    second: BALL R eye
+  - first:
+      4: 400064
+    second: BALL R Finger0
+  - first:
+      4: 400066
+    second: BALL R Finger01
+  - first:
+      4: 400068
+    second: BALL R Finger02
+  - first:
+      4: 400070
+    second: BALL R Finger1
+  - first:
+      4: 400072
+    second: BALL R Finger11
+  - first:
+      4: 400074
+    second: BALL R Finger12
+  - first:
+      4: 400076
+    second: BALL R Finger2
+  - first:
+      4: 400078
+    second: BALL R Finger21
+  - first:
+      4: 400080
+    second: BALL R Finger22
+  - first:
+      4: 400082
+    second: BALL R Finger3
+  - first:
+      4: 400084
+    second: BALL R Finger31
+  - first:
+      4: 400086
+    second: BALL R Finger32
+  - first:
+      4: 400088
+    second: BALL R Foot
+  - first:
+      4: 400090
+    second: BALL R Forearm
+  - first:
+      4: 400092
+    second: BALL R Hand
+  - first:
+      4: 400094
+    second: BALL R Thigh
+  - first:
+      4: 400096
+    second: BALL R Toe0
+  - first:
+      4: 400098
+    second: BALL R UpperArm
+  - first:
+      4: 400100
+    second: BALL Spine
+  - first:
+      4: 400102
+    second: BALLeyes
+  - first:
+      4: 400104
+    second: LEGS
+  - first:
+      4: 400106
+    second: //RootNode
+  - first:
+      4: 400108
+    second: ROOT
+  - first:
+      4: 400110
+    second: tooth
+  - first:
+      43: 4300000
+    second: ARMS
+  - first:
+      43: 4300002
+    second: BALLeyes
+  - first:
+      43: 4300004
+    second: tooth
+  - first:
+      43: 4300006
+    second: LEGS
+  - first:
+      43: 4300008
+    second: BALL
+  - first:
+      74: 7400000
+    second: normal_talk2
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: ARMS
+  - first:
+      137: 13700002
+    second: BALL
+  - first:
+      137: 13700004
+    second: BALLeyes
+  - first:
+      137: 13700006
+    second: LEGS
+  - first:
+      137: 13700008
+    second: tooth
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: ef9e63f83af1475478b99bc239ececec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: d3bafb31066038442aae7b156fe8567e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tooth
+    second: {fileID: 2100000, guid: 0fd48cd4e7a43f74f98249a91eb795f2, type: 2}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: ROOT
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: normal_talk2
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ARMS
+        weight: 0
+      - path: BALL
+        weight: 1
+      - path: BALLeyes
+        weight: 1
+      - path: LEGS
+        weight: 0
+      - path: ROOT
+        weight: 1
+      - path: ROOT/BALL 1
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL L Thigh
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL L Thigh/BALL L Calf
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL L Thigh/BALL L Calf/BALL L Foot
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL L Thigh/BALL L Calf/BALL L Foot/BALL L
+          Toe0
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL R Thigh
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL R Thigh/BALL R Calf
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL R Thigh/BALL R Calf/BALL R Foot
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL R Thigh/BALL R Calf/BALL R Foot/BALL R
+          Toe0
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL eyebrows
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL jaw
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger0
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger0/BALL L Finger01
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger0/BALL L Finger01/BALL L Finger02
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger1
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger1/BALL L Finger11
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger1/BALL L Finger11/BALL L Finger12
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger2
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger2/BALL L Finger21
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger2/BALL L Finger21/BALL L Finger22
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger3
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger3/BALL L Finger31
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L Clavicle/BALL L UpperArm/BALL
+          L Forearm/BALL L Hand/BALL L Finger3/BALL L Finger31/BALL L Finger32
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL L eye
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL Neck
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL Neck/BALL Head
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger0
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger0/BALL R Finger01
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger0/BALL R Finger01/BALL R Finger02
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger1
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger1/BALL R Finger11
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger1/BALL R Finger11/BALL R Finger12
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger2
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger2/BALL R Finger21
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger2/BALL R Finger21/BALL R Finger22
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger3
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger3/BALL R Finger31
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R Clavicle/BALL R UpperArm/BALL
+          R Forearm/BALL R Hand/BALL R Finger3/BALL R Finger31/BALL R Finger32
+        weight: 1
+      - path: ROOT/BALL 1/BALL Pelvis/BALL Spine/BALL R eye
+        weight: 1
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 2
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: BALL Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BALL R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BALL(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARMS
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BALL
+      parentName: 
+      position: {x: 0.00018054008, y: 0.81737334, z: 0.0392763}
+      rotation: {x: 0.50023645, y: -0.49983832, z: -0.50016165, w: 0.49976346}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: BALLeyes
+      parentName: 
+      position: {x: -0.056319706, y: 0.868933, z: 0.17010286}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hood
+      parentName: 
+      position: {x: 0.00018051147, y: 0.8173425, z: 0.03887788}
+      rotation: {x: 0.00000008146034, y: -0, z: 0, w: 1}
+      scale: {x: 1.0209999, y: 1.0209999, z: 1.0209999}
+    - name: LEGS
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ROOT
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BALL 1
+      parentName: 
+      position: {x: -0.00008216381, y: 0.63256407, z: 0.000000005665659}
+      rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: BALL Pelvis
+      parentName: 
+      position: {x: 0, y: 0, z: 0.030177176}
+      rotation: {x: 0.5, y: -0.5000007, z: -0.49999937, w: -0.49999994}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: BALL L Thigh
+      parentName: 
+      position: {x: 0.00000022888179, y: 0.0000002655633, z: 0.1715554}
+      rotation: {x: -0.049979128, y: 0.99875027, z: -0.0000007301568, w: 0.00000058114523}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999994}
+    - name: BALL L Calf
+      parentName: 
+      position: {x: -0.3264314, y: -0.000000002384186, z: -0.000000004768372}
+      rotation: {x: -0.000000059604645, y: -0.00000011920929, z: 0.0998334, w: 0.9950042}
+      scale: {x: 0.99999976, y: 0.9999997, z: 0.9999999}
+    - name: BALL L Foot
+      parentName: 
+      position: {x: -0.2601114, y: 0, z: 0.00000001430511}
+      rotation: {x: 0.00000008940697, y: 0.000000029802322, z: -0.049979165, w: 0.9987503}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+    - name: BALL L Toe0
+      parentName: 
+      position: {x: -0.05982561, y: 0.1181386, z: -0.000000004768372}
+      rotation: {x: -0.0000001490116, y: -0.00000007395251, z: -0.70710677, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+    - name: BALL R Thigh
+      parentName: 
+      position: {x: -0.00000022888179, y: -0.0000002102628, z: -0.1715554}
+      rotation: {x: -0.049979195, y: 0.9987503, z: -0.00000071525574, w: 0.00000059604645}
+      scale: {x: 0.9999993, y: 0.9999999, z: 0.9999995}
+    - name: BALL R Calf
+      parentName: 
+      position: {x: -0.32643148, y: 0.000000002384186, z: 0.000000019073491}
+      rotation: {x: 0.000000014901159, y: -0.000000014901159, z: 0.09983349, w: 0.9950042}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: BALL R Foot
+      parentName: 
+      position: {x: -0.2601114, y: -0.000000004768372, z: 0}
+      rotation: {x: -0.000000029802319, y: -0.000000029802319, z: -0.049979128, w: 0.9987503}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: BALL R Toe0
+      parentName: 
+      position: {x: -0.05982561, y: 0.1181386, z: 0}
+      rotation: {x: -0.000000059604634, y: -0.000000044150333, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: BALL Spine
+      parentName: 
+      position: {x: -0.05982559, y: -0.00019663709, z: 0.000000083232294}
+      rotation: {x: 0.000016659498, y: -0.00000071525574, z: -0.00039827824, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: BALL eyebrows
+      parentName: 
+      position: {x: -0.113369994, y: 0.03887814, z: 0.00000006480142}
+      rotation: {x: -0.00000046193594, y: 0.0000037252898, z: -0.382683, w: 0.92387974}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: BALL jaw
+      parentName: 
+      position: {x: -0.113231294, y: 0.03906519, z: 0.000000058356665}
+      rotation: {x: 0.000000014901161, y: 0.0000023841858, z: -0.8433913, w: 0.5372998}
+      scale: {x: 0.99999964, y: 0.99999946, z: 0.99999976}
+    - name: BALL L Clavicle
+      parentName: 
+      position: {x: -0.152322, y: 0.00007516041, z: 0.1070701}
+      rotation: {x: 0.70710677, y: 0.0002825223, z: -0.7071067, w: 0.00028061078}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: BALL L UpperArm
+      parentName: 
+      position: {x: -0.1926219, y: -4.547474e-14, z: 0}
+      rotation: {x: 0.006406456, y: 0.0003450718, z: -0.00018815453, w: 0.99997944}
+      scale: {x: 1.0000004, y: 1, z: 0.9999993}
+    - name: BALL L Forearm
+      parentName: 
+      position: {x: -0.2136786, y: 0.00000003814697, z: 0.00000003814697}
+      rotation: {x: -0.00000008817276, y: -0.0000000051950333, z: 0.00086319156, w: 0.99999964}
+      scale: {x: 1, y: 0.99999994, z: 1.0000002}
+    - name: BALL L Hand
+      parentName: 
+      position: {x: -0.21367839, y: 0, z: -0.00000003814697}
+      rotation: {x: 0.70682514, y: -0.000000009458745, z: -0.000000012631062, w: -0.7073884}
+      scale: {x: 1.0000001, y: 0.9999997, z: 0.99999964}
+    - name: BALL L Finger0
+      parentName: 
+      position: {x: -0.02533862, y: 0.010271535, z: -0.038831472}
+      rotation: {x: -0.94880486, y: -0.0005160494, z: -0.31584734, w: -0.0030997489}
+      scale: {x: 0.9999997, y: 1.000001, z: 1.0000004}
+    - name: BALL L Finger01
+      parentName: 
+      position: {x: -0.054547038, y: 0.000000019073491, z: 0.000000019073491}
+      rotation: {x: -0.000119574346, y: 0.004361659, z: 0.0011423974, w: 0.99998987}
+      scale: {x: 1, y: 0.9999999, z: 0.99999976}
+    - name: BALL L Finger02
+      parentName: 
+      position: {x: -0.036289748, y: 0, z: 0}
+      rotation: {x: -0.00011972336, y: 0.0043615694, z: 0.0011426358, w: 0.99998987}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: BALL L Finger1
+      parentName: 
+      position: {x: -0.1084388, y: -0.000021591188, z: -0.03147675}
+      rotation: {x: -0.00039756225, y: -0.060996715, z: 0.000017979086, w: 0.99813795}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000001}
+    - name: BALL L Finger11
+      parentName: 
+      position: {x: -0.03628971, y: 0.00000007629395, z: -0.000000004768372}
+      rotation: {x: -0.000000023737806, y: 5.2386884e-10, z: -0.0032200953, w: 0.9999949}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: BALL L Finger12
+      parentName: 
+      position: {x: -0.03628973, y: -0.00000007629395, z: 0.000000004768372}
+      rotation: {x: 0.000000014904796, y: -4.6566118e-10, z: -0.0032201111, w: 0.9999949}
+      scale: {x: 1, y: 0.99999976, z: 0.9999997}
+    - name: BALL L Finger2
+      parentName: 
+      position: {x: -0.1084388, y: 0.00000003814697, z: 0.000000009536743}
+      rotation: {x: -0.0003975121, y: -0.060996816, z: 0.000017806704, w: 0.99813795}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: BALL L Finger21
+      parentName: 
+      position: {x: -0.04354765, y: 0.00000003814697, z: 0}
+      rotation: {x: -0.000000024678451, y: -0.0000000033760434, z: -0.0032201242, w: 0.9999949}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: BALL L Finger22
+      parentName: 
+      position: {x: -0.043547668, y: 0, z: 0.000000019073491}
+      rotation: {x: 0.000000015825204, y: -0.0000000066356716, z: -0.0032201519, w: 0.9999949}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: BALL L Finger3
+      parentName: 
+      position: {x: -0.1084388, y: 0.000021591188, z: 0.03299896}
+      rotation: {x: -0.00039746193, y: -0.060996808, z: 0.000017634002, w: 0.99813795}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999999}
+    - name: BALL L Finger31
+      parentName: 
+      position: {x: -0.03628971, y: 0, z: 0}
+      rotation: {x: -0.0000000120680825, y: 0.000000011757945, z: -0.0032200627, w: 0.9999949}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000002}
+    - name: BALL L Finger32
+      parentName: 
+      position: {x: -0.036289748, y: 0.00000003814697, z: 0}
+      rotation: {x: -0.0000000125091875, y: -0.000000012223606, z: -0.0032201284, w: 0.9999948}
+      scale: {x: 1.0000002, y: 0.99999976, z: 0.9999997}
+    - name: BALL L eye
+      parentName: 
+      position: {x: -0.1649361, y: 0.170278, z: 0.05633925}
+      rotation: {x: -0.7958796, y: 0.5914853, z: 0.086944446, w: 0.09571581}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: BALL Neck
+      parentName: 
+      position: {x: -0.113219894, y: 0.03887582, z: 0.00000005782582}
+      rotation: {x: -3.0117673e-14, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BALL Head
+      parentName: 
+      position: {x: -0.3127049, y: 0, z: 9.3132255e-12}
+      rotation: {x: -7.265591e-14, y: -0.0000000011042735, z: 0.0003988306, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leaf
+      parentName: 
+      position: {x: -0.005211105, y: 0.0003748369, z: -0.00000015258789}
+      rotation: {x: 0.70693916, y: -0.01542614, z: -0.7069379, w: -0.015426167}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HAT1
+      parentName: 
+      position: {x: -0.30791098, y: -0.054296874, z: -0.00000015258789}
+      rotation: {x: 0.046528712, y: -0.705574, z: 0.046528663, w: 0.70557463}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: BALL R Clavicle
+      parentName: 
+      position: {x: -0.152322, y: 0.000075754295, z: -0.1070701}
+      rotation: {x: -0.7071067, y: -0.00028061867, z: -0.7071068, w: 0.00028252602}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: BALL R UpperArm
+      parentName: 
+      position: {x: -0.1926218, y: 9.094947e-15, z: 0}
+      rotation: {x: 0.0064063957, y: 0.00034514623, z: 0.00018811063, w: -0.99997944}
+      scale: {x: 0.99999964, y: 1.0000001, z: 0.9999994}
+    - name: BALL R Forearm
+      parentName: 
+      position: {x: -0.2136786, y: 0, z: -0.000000019073491}
+      rotation: {x: -0.000000059604645, y: 0.00000001231092, z: 0.0008632062, w: 0.9999997}
+      scale: {x: 1.0000001, y: 0.9999995, z: 1.0000001}
+    - name: BALL R Hand
+      parentName: 
+      position: {x: -0.2136786, y: 0, z: 0}
+      rotation: {x: -0.7068252, y: -6.4028427e-10, z: 0.000000005180482, w: -0.7073883}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: BALL R Finger0
+      parentName: 
+      position: {x: -0.025351107, y: 0.0102607785, z: 0.03885343}
+      rotation: {x: 0.9345076, y: 0.0006469181, z: -0.35592923, w: -0.003074945}
+      scale: {x: 0.99999994, y: 1.0000007, z: 0.9999997}
+    - name: BALL R Finger01
+      parentName: 
+      position: {x: -0.054547116, y: 0.00000003814697, z: 0.000000019073491}
+      rotation: {x: 0.00011956689, y: -0.0043615988, z: 0.0011425314, w: 0.99998987}
+      scale: {x: 0.99999976, y: 0.99999976, z: 0.99999964}
+    - name: BALL R Finger02
+      parentName: 
+      position: {x: -0.03628971, y: -0.000000028610229, z: 0.000000004768372}
+      rotation: {x: -0.000119566896, y: 0.0043615843, z: -0.0011426954, w: -0.99998987}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: BALL R Finger1
+      parentName: 
+      position: {x: -0.1084388, y: -0.00002155304, z: 0.03147676}
+      rotation: {x: 0.00039740492, y: 0.060996648, z: 0.000017168079, w: 0.9981379}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.9999999}
+    - name: BALL R Finger11
+      parentName: 
+      position: {x: -0.03628971, y: 0, z: 0}
+      rotation: {x: 4.6566118e-10, y: -0.0000000040745354, z: -0.0032200937, w: 0.9999948}
+      scale: {x: 0.99999994, y: 1, z: 0.9999998}
+    - name: BALL R Finger12
+      parentName: 
+      position: {x: -0.03628971, y: -0.000000019073491, z: 0}
+      rotation: {x: -0.000000058207647, y: 0.00000002025626, z: -0.0032201207, w: 0.9999948}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: BALL R Finger2
+      parentName: 
+      position: {x: -0.1084388, y: 0.00000003814697, z: 0}
+      rotation: {x: 0.0003974715, y: 0.06099666, z: 0.000017398203, w: 0.9981379}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: BALL R Finger21
+      parentName: 
+      position: {x: -0.04354771, y: -0.000000019073491, z: 0.000000009536743}
+      rotation: {x: 0.000000018626448, y: -0.0000000022118907, z: -0.0032201202, w: 0.9999948}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: BALL R Finger22
+      parentName: 
+      position: {x: -0.04354763, y: 0.000000019073491, z: -0.000000009536743}
+      rotation: {x: -0.00000006938352, y: -0.0000000118161525, z: -0.0032201153, w: 0.9999948}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: BALL R Finger3
+      parentName: 
+      position: {x: -0.1084388, y: 0.000021591188, z: -0.032998968}
+      rotation: {x: 0.00039754974, y: 0.06099672, z: 0.000017921955, w: 0.99813795}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: BALL R Finger31
+      parentName: 
+      position: {x: -0.036289748, y: 0.00000003814697, z: 0}
+      rotation: {x: 0.000000018160787, y: -0.000000005238688, z: -0.0032201128, w: 0.9999948}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: BALL R Finger32
+      parentName: 
+      position: {x: -0.03628967, y: -0.00000003814697, z: -0.000000019073491}
+      rotation: {x: -0.000000065192566, y: -0.000000005471519, z: -0.0032201153, w: 0.9999948}
+      scale: {x: 0.99999976, y: 0.9999997, z: 0.99999976}
+    - name: BALL R eye
+      parentName: 
+      position: {x: -0.1649349, y: 0.1687007, z: -0.05863774}
+      rotation: {x: -0.79357004, y: 0.59379375, z: -0.06943362, w: -0.11329037}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999997}
+    - name: Saturn
+      parentName: 
+      position: {x: -0.1155339, y: 0.080941245, z: 0.000000076293944}
+      rotation: {x: 0.66455966, y: -0.24158005, z: -0.6645588, w: -0.24158035}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: star
+      parentName: 
+      position: {x: -0.17109069, y: 0.03893831, z: -0.00018043518}
+      rotation: {x: 0.7071072, y: 0.00028150986, z: -0.7071063, w: 0.0002815102}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SUN
+      parentName: 
+      position: {x: -0.1155339, y: 0.080941245, z: 0.000000076293944}
+      rotation: {x: 0.50019944, y: -0.49980056, z: -0.5001988, w: -0.4998012}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: tooth
+      parentName: 
+      position: {x: 0.00018075957, y: 0.7335442, z: 0.3168063}
+      rotation: {x: 0.13052626, y: -0, z: 0, w: 0.9914449}
+      scale: {x: 1.1935, y: 1.1934999, z: 1.1934999}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: bfa06f96beb300f4cbbc7ff1efcdf022, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

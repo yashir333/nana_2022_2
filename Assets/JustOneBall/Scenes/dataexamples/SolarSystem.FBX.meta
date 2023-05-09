@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 70ad8cdc48e062e4fbf3f6e70cd0174c
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: EARTH
+  - first:
+      1: 100002
+    second: JUPITER
+  - first:
+      1: 100004
+    second: MARS
+  - first:
+      1: 100006
+    second: MERCURY
+  - first:
+      1: 100008
+    second: MOON
+  - first:
+      1: 100010
+    second: NEPTUNE
+  - first:
+      1: 100012
+    second: ROOT
+  - first:
+      1: 100014
+    second: SATURN
+  - first:
+      1: 100016
+    second: //RootNode
+  - first:
+      1: 100018
+    second: SS_arms_00
+  - first:
+      1: 100020
+    second: SS_arms_01
+  - first:
+      1: 100022
+    second: SS_arms_02
+  - first:
+      1: 100024
+    second: SS_arms_03
+  - first:
+      1: 100026
+    second: SS_arms_04
+  - first:
+      1: 100028
+    second: SS_arms_05
+  - first:
+      1: 100030
+    second: SS_arms_06
+  - first:
+      1: 100032
+    second: SS_arms_07
+  - first:
+      1: 100034
+    second: SUN
+  - first:
+      1: 100036
+    second: URANUS
+  - first:
+      1: 100038
+    second: VENUS
+  - first:
+      4: 400000
+    second: EARTH
+  - first:
+      4: 400002
+    second: JUPITER
+  - first:
+      4: 400004
+    second: MARS
+  - first:
+      4: 400006
+    second: MERCURY
+  - first:
+      4: 400008
+    second: MOON
+  - first:
+      4: 400010
+    second: NEPTUNE
+  - first:
+      4: 400012
+    second: ROOT
+  - first:
+      4: 400014
+    second: SATURN
+  - first:
+      4: 400016
+    second: //RootNode
+  - first:
+      4: 400018
+    second: SS_arms_00
+  - first:
+      4: 400020
+    second: SS_arms_01
+  - first:
+      4: 400022
+    second: SS_arms_02
+  - first:
+      4: 400024
+    second: SS_arms_03
+  - first:
+      4: 400026
+    second: SS_arms_04
+  - first:
+      4: 400028
+    second: SS_arms_05
+  - first:
+      4: 400030
+    second: SS_arms_06
+  - first:
+      4: 400032
+    second: SS_arms_07
+  - first:
+      4: 400034
+    second: SUN
+  - first:
+      4: 400036
+    second: URANUS
+  - first:
+      4: 400038
+    second: VENUS
+  - first:
+      23: 2300000
+    second: SS_arms_00
+  - first:
+      23: 2300002
+    second: SS_arms_01
+  - first:
+      23: 2300004
+    second: SS_arms_02
+  - first:
+      23: 2300006
+    second: SS_arms_03
+  - first:
+      23: 2300008
+    second: SS_arms_04
+  - first:
+      23: 2300010
+    second: SS_arms_05
+  - first:
+      23: 2300012
+    second: SS_arms_06
+  - first:
+      23: 2300014
+    second: SS_arms_07
+  - first:
+      33: 3300000
+    second: SS_arms_00
+  - first:
+      33: 3300002
+    second: SS_arms_01
+  - first:
+      33: 3300004
+    second: SS_arms_02
+  - first:
+      33: 3300006
+    second: SS_arms_03
+  - first:
+      33: 3300008
+    second: SS_arms_04
+  - first:
+      33: 3300010
+    second: SS_arms_05
+  - first:
+      33: 3300012
+    second: SS_arms_06
+  - first:
+      33: 3300014
+    second: SS_arms_07
+  - first:
+      43: 4300000
+    second: SS_arms_00
+  - first:
+      43: 4300002
+    second: SS_arms_05
+  - first:
+      43: 4300004
+    second: SS_arms_07
+  - first:
+      43: 4300006
+    second: SS_arms_01
+  - first:
+      43: 4300008
+    second: SS_arms_06
+  - first:
+      43: 4300010
+    second: SS_arms_02
+  - first:
+      43: 4300012
+    second: SS_arms_03
+  - first:
+      43: 4300014
+    second: SS_arms_04
+  - first:
+      74: 7400000
+    second: SolarSystem
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orbit
+    second: {fileID: 2100000, guid: c415eb61092ca284aa602ce25cfb9ebf, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: ROOT
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SolarSystem
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/SS_arms_00
+        weight: 1
+      - path: ROOT/SS_arms_00/SATURN
+        weight: 1
+      - path: ROOT/SS_arms_01
+        weight: 1
+      - path: ROOT/SS_arms_01/JUPITER
+        weight: 1
+      - path: ROOT/SS_arms_02
+        weight: 1
+      - path: ROOT/SS_arms_02/MARS
+        weight: 1
+      - path: ROOT/SS_arms_03
+        weight: 1
+      - path: ROOT/SS_arms_03/VENUS
+        weight: 1
+      - path: ROOT/SS_arms_04
+        weight: 1
+      - path: ROOT/SS_arms_04/MERCURY
+        weight: 1
+      - path: ROOT/SS_arms_05
+        weight: 1
+      - path: ROOT/SS_arms_05/NEPTUNE
+        weight: 1
+      - path: ROOT/SS_arms_06
+        weight: 1
+      - path: ROOT/SS_arms_06/EARTH
+        weight: 1
+      - path: ROOT/SS_arms_06/EARTH/MOON
+        weight: 1
+      - path: ROOT/SS_arms_07
+        weight: 1
+      - path: ROOT/SS_arms_07/URANUS
+        weight: 1
+      - path: ROOT/SUN
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 2
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
