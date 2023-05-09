@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 0beb34a823213a44ab3eeef86282f3ce
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: arm_L
+  - first:
+      1: 100002
+    second: arm_R
+  - first:
+      1: 100004
+    second: bone_1
+  - first:
+      1: 100006
+    second: bone_10
+  - first:
+      1: 100008
+    second: bone_11
+  - first:
+      1: 100010
+    second: bone_12
+  - first:
+      1: 100012
+    second: bone_13
+  - first:
+      1: 100014
+    second: bone_14
+  - first:
+      1: 100016
+    second: bone_2
+  - first:
+      1: 100018
+    second: bone_3
+  - first:
+      1: 100020
+    second: bone_4
+  - first:
+      1: 100022
+    second: bone_5
+  - first:
+      1: 100024
+    second: bone_6
+  - first:
+      1: 100026
+    second: bone_7
+  - first:
+      1: 100028
+    second: bone_8
+  - first:
+      1: 100030
+    second: bone_9
+  - first:
+      1: 100032
+    second: elbow_L
+  - first:
+      1: 100034
+    second: elbow_R
+  - first:
+      1: 100036
+    second: eye_L
+  - first:
+      1: 100038
+    second: eye_R
+  - first:
+      1: 100040
+    second: finger1_L
+  - first:
+      1: 100042
+    second: finger1_R
+  - first:
+      1: 100044
+    second: finger1End_L
+  - first:
+      1: 100046
+    second: finger1End_R
+  - first:
+      1: 100048
+    second: finger2_L
+  - first:
+      1: 100050
+    second: finger2_R
+  - first:
+      1: 100052
+    second: finger2End_L
+  - first:
+      1: 100054
+    second: finger2End_R
+  - first:
+      1: 100056
+    second: finger3_L
+  - first:
+      1: 100058
+    second: finger3_R
+  - first:
+      1: 100060
+    second: finger3End_L
+  - first:
+      1: 100062
+    second: finger3End_R
+  - first:
+      1: 100064
+    second: foot_L
+  - first:
+      1: 100066
+    second: foot_R
+  - first:
+      1: 100068
+    second: footEnd_L
+  - first:
+      1: 100070
+    second: footEnd_R
+  - first:
+      1: 100072
+    second: hand_L
+  - first:
+      1: 100074
+    second: hand_R
+  - first:
+      1: 100076
+    second: head
+  - first:
+      1: 100078
+    second: jaw
+  - first:
+      1: 100080
+    second: knee_L
+  - first:
+      1: 100082
+    second: knee_R
+  - first:
+      1: 100084
+    second: neck1
+  - first:
+      1: 100086
+    second: neck2
+  - first:
+      1: 100088
+    second: //RootNode
+  - first:
+      1: 100090
+    second: thigh_L
+  - first:
+      1: 100092
+    second: thigh_R
+  - first:
+      1: 100094
+    second: toe1_L
+  - first:
+      1: 100096
+    second: toe1_R
+  - first:
+      1: 100098
+    second: toe1End_L
+  - first:
+      1: 100100
+    second: toe1End_R
+  - first:
+      1: 100102
+    second: toe2_L
+  - first:
+      1: 100104
+    second: toe2_R
+  - first:
+      1: 100106
+    second: toe2End_L
+  - first:
+      1: 100108
+    second: toe2End_R
+  - first:
+      1: 100110
+    second: toe3_L
+  - first:
+      1: 100112
+    second: toe3_R
+  - first:
+      1: 100114
+    second: toe3End_L
+  - first:
+      1: 100116
+    second: toe3End_R
+  - first:
+      1: 100118
+    second: tongue
+  - first:
+      1: 100120
+    second: tongueEnd
+  - first:
+      1: 100122
+    second: wrist_L
+  - first:
+      1: 100124
+    second: wrist_R
+  - first:
+      4: 400000
+    second: arm_L
+  - first:
+      4: 400002
+    second: arm_R
+  - first:
+      4: 400004
+    second: bone_1
+  - first:
+      4: 400006
+    second: bone_10
+  - first:
+      4: 400008
+    second: bone_11
+  - first:
+      4: 400010
+    second: bone_12
+  - first:
+      4: 400012
+    second: bone_13
+  - first:
+      4: 400014
+    second: bone_14
+  - first:
+      4: 400016
+    second: bone_2
+  - first:
+      4: 400018
+    second: bone_3
+  - first:
+      4: 400020
+    second: bone_4
+  - first:
+      4: 400022
+    second: bone_5
+  - first:
+      4: 400024
+    second: bone_6
+  - first:
+      4: 400026
+    second: bone_7
+  - first:
+      4: 400028
+    second: bone_8
+  - first:
+      4: 400030
+    second: bone_9
+  - first:
+      4: 400032
+    second: elbow_L
+  - first:
+      4: 400034
+    second: elbow_R
+  - first:
+      4: 400036
+    second: eye_L
+  - first:
+      4: 400038
+    second: eye_R
+  - first:
+      4: 400040
+    second: finger1_L
+  - first:
+      4: 400042
+    second: finger1_R
+  - first:
+      4: 400044
+    second: finger1End_L
+  - first:
+      4: 400046
+    second: finger1End_R
+  - first:
+      4: 400048
+    second: finger2_L
+  - first:
+      4: 400050
+    second: finger2_R
+  - first:
+      4: 400052
+    second: finger2End_L
+  - first:
+      4: 400054
+    second: finger2End_R
+  - first:
+      4: 400056
+    second: finger3_L
+  - first:
+      4: 400058
+    second: finger3_R
+  - first:
+      4: 400060
+    second: finger3End_L
+  - first:
+      4: 400062
+    second: finger3End_R
+  - first:
+      4: 400064
+    second: foot_L
+  - first:
+      4: 400066
+    second: foot_R
+  - first:
+      4: 400068
+    second: footEnd_L
+  - first:
+      4: 400070
+    second: footEnd_R
+  - first:
+      4: 400072
+    second: hand_L
+  - first:
+      4: 400074
+    second: hand_R
+  - first:
+      4: 400076
+    second: head
+  - first:
+      4: 400078
+    second: jaw
+  - first:
+      4: 400080
+    second: knee_L
+  - first:
+      4: 400082
+    second: knee_R
+  - first:
+      4: 400084
+    second: neck1
+  - first:
+      4: 400086
+    second: neck2
+  - first:
+      4: 400088
+    second: //RootNode
+  - first:
+      4: 400090
+    second: thigh_L
+  - first:
+      4: 400092
+    second: thigh_R
+  - first:
+      4: 400094
+    second: toe1_L
+  - first:
+      4: 400096
+    second: toe1_R
+  - first:
+      4: 400098
+    second: toe1End_L
+  - first:
+      4: 400100
+    second: toe1End_R
+  - first:
+      4: 400102
+    second: toe2_L
+  - first:
+      4: 400104
+    second: toe2_R
+  - first:
+      4: 400106
+    second: toe2End_L
+  - first:
+      4: 400108
+    second: toe2End_R
+  - first:
+      4: 400110
+    second: toe3_L
+  - first:
+      4: 400112
+    second: toe3_R
+  - first:
+      4: 400114
+    second: toe3End_L
+  - first:
+      4: 400116
+    second: toe3End_R
+  - first:
+      4: 400118
+    second: tongue
+  - first:
+      4: 400120
+    second: tongueEnd
+  - first:
+      4: 400122
+    second: wrist_L
+  - first:
+      4: 400124
+    second: wrist_R
+  - first:
+      74: 7400000
+    second: RaptorWalk
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RaptorWalk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone_1
+        weight: 1
+      - path: bone_1/bone_2
+        weight: 1
+      - path: bone_1/bone_2/bone_3
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_L/elbow_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_L/elbow_L/wrist_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_L/elbow_L/wrist_L/hand_L/finger1_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_L/elbow_L/wrist_L/hand_L/finger1_L/finger1End_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_L/elbow_L/wrist_L/hand_L/finger2_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_L/elbow_L/wrist_L/hand_L/finger2_L/finger2End_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_L/elbow_L/wrist_L/hand_L/finger3_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_L/elbow_L/wrist_L/hand_L/finger3_L/finger3End_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_R/elbow_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_R/elbow_R/wrist_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_R/elbow_R/wrist_R/hand_R/finger1_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_R/elbow_R/wrist_R/hand_R/finger1_R/finger1End_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_R/elbow_R/wrist_R/hand_R/finger2_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_R/elbow_R/wrist_R/hand_R/finger2_R/finger2End_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_R/elbow_R/wrist_R/hand_R/finger3_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/arm_R/elbow_R/wrist_R/hand_R/finger3_R/finger3End_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/neck1
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/neck1/neck2
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/neck1/neck2/head
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/neck1/neck2/head/eye_L
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/neck1/neck2/head/eye_R
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/neck1/neck2/head/jaw
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/neck1/neck2/head/jaw/tongue
+        weight: 1
+      - path: bone_1/bone_2/bone_3/bone_4/bone_5/neck1/neck2/head/jaw/tongue/tongueEnd
+        weight: 1
+      - path: bone_1/bone_6
+        weight: 1
+      - path: bone_1/bone_6/bone_7
+        weight: 1
+      - path: bone_1/bone_6/bone_7/bone_8
+        weight: 1
+      - path: bone_1/bone_6/bone_7/bone_8/bone_9
+        weight: 1
+      - path: bone_1/bone_6/bone_7/bone_8/bone_9/bone_10
+        weight: 1
+      - path: bone_1/bone_6/bone_7/bone_8/bone_9/bone_10/bone_11
+        weight: 1
+      - path: bone_1/bone_6/bone_7/bone_8/bone_9/bone_10/bone_11/bone_12
+        weight: 1
+      - path: bone_1/bone_6/bone_7/bone_8/bone_9/bone_10/bone_11/bone_12/bone_13
+        weight: 1
+      - path: bone_1/bone_6/bone_7/bone_8/bone_9/bone_10/bone_11/bone_12/bone_13/bone_14
+        weight: 1
+      - path: bone_1/thigh_L
+        weight: 1
+      - path: bone_1/thigh_L/knee_L
+        weight: 1
+      - path: bone_1/thigh_L/knee_L/foot_L
+        weight: 1
+      - path: bone_1/thigh_L/knee_L/foot_L/footEnd_L
+        weight: 1
+      - path: bone_1/thigh_L/knee_L/foot_L/footEnd_L/toe1_L
+        weight: 1
+      - path: bone_1/thigh_L/knee_L/foot_L/footEnd_L/toe1_L/toe1End_L
+        weight: 1
+      - path: bone_1/thigh_L/knee_L/foot_L/footEnd_L/toe2_L
+        weight: 1
+      - path: bone_1/thigh_L/knee_L/foot_L/footEnd_L/toe2_L/toe2End_L
+        weight: 1
+      - path: bone_1/thigh_L/knee_L/foot_L/footEnd_L/toe3_L
+        weight: 1
+      - path: bone_1/thigh_L/knee_L/foot_L/footEnd_L/toe3_L/toe3End_L
+        weight: 1
+      - path: bone_1/thigh_R
+        weight: 1
+      - path: bone_1/thigh_R/knee_R
+        weight: 1
+      - path: bone_1/thigh_R/knee_R/foot_R
+        weight: 1
+      - path: bone_1/thigh_R/knee_R/foot_R/footEnd_R
+        weight: 1
+      - path: bone_1/thigh_R/knee_R/foot_R/footEnd_R/toe1_R
+        weight: 1
+      - path: bone_1/thigh_R/knee_R/foot_R/footEnd_R/toe1_R/toe1End_R
+        weight: 1
+      - path: bone_1/thigh_R/knee_R/foot_R/footEnd_R/toe2_R
+        weight: 1
+      - path: bone_1/thigh_R/knee_R/foot_R/footEnd_R/toe2_R/toe2End_R
+        weight: 1
+      - path: bone_1/thigh_R/knee_R/foot_R/footEnd_R/toe3_R
+        weight: 1
+      - path: bone_1/thigh_R/knee_R/foot_R/footEnd_R/toe3_R/toe3End_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: bone_1
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
