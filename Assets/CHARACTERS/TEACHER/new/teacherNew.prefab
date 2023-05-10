@@ -1258,11 +1258,11 @@ Transform:
   - {fileID: 4570634169161484405}
   - {fileID: 289102420449480818}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &8953768704449476402
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1279,7 +1279,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &2584442924546591150
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3454,7 +3455,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f49b2f8aab966fc4fb8bb32f562eed74, type: 2}
+  - {fileID: -7564463169690463307, guid: 5b5f0380483fcbe4781fe49a2412dd91, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4719,7 +4720,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 2
+    serializedVersion: 3
     m_TransformParent: {fileID: 6446361707780262671}
     m_Modifications:
     - target: {fileID: 422010433053815567, guid: 377438ac655f0c340a7f68a821da299e, type: 3}
@@ -4782,8 +4783,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Asset 1kippah (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1085511178173351704, guid: 377438ac655f0c340a7f68a821da299e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7cf17d89509d87440976807719e11d05, type: 2}
+    - target: {fileID: 8095502083654776685, guid: 377438ac655f0c340a7f68a821da299e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7cf17d89509d87440976807719e11d05, type: 2}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
     m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 377438ac655f0c340a7f68a821da299e, type: 3}
 --- !u!4 &1550408059582762222 stripped
 Transform:
@@ -4795,7 +4806,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 2
+    serializedVersion: 3
     m_TransformParent: {fileID: 6982732622246980058}
     m_Modifications:
     - target: {fileID: 100000, guid: 956991fbb563af84cbd26de73f217308, type: 3}
@@ -4858,8 +4869,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.02120919
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 956991fbb563af84cbd26de73f217308, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 667f9871259c07741927fadb9527cab9, type: 2}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
     m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 956991fbb563af84cbd26de73f217308, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1179784407474474908}
   m_SourcePrefab: {fileID: 100100000, guid: 956991fbb563af84cbd26de73f217308, type: 3}
 --- !u!4 &1179784407474083097 stripped
 Transform:
@@ -4873,7 +4893,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!95 &1179784407474474908
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -4890,4 +4910,5 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
