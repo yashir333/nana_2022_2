@@ -25,14 +25,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 862584518}
-  m_LocalRotation: {x: -0.078615375, y: 0.15123384, z: -0.7009193, w: -0.6925751}
-  m_LocalPosition: {x: 0.36147916, y: 3.0829592, z: 0.30516583}
+  m_LocalRotation: {x: 0.15787739, y: 0.074327216, z: -0.12337356, w: -0.9768978}
+  m_LocalPosition: {x: -0.0225, y: 0.2004, z: -0.027}
   m_LocalScale: {x: 0.014241991, y: 0.010423088, z: 0.014242001}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9219721484879075569}
   m_RootOrder: -1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -16.865, y: -11.096, z: 16.046}
 --- !u!33 &862584521
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -3586,7 +3586,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &2396429627233466192
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -3603,7 +3603,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &8157984411338702748
 MonoBehaviour:
   m_ObjectHideFlags: 0
