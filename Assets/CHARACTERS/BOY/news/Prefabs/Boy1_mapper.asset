@@ -1995,7 +1995,7 @@ MonoBehaviour:
             m_PostInfinity: 2
             m_RotationOrder: 4
       m_IsExpanded: 1
-    m_IsExpanded: 0
+    m_IsExpanded: 1
   - m_Path: Wolf3D_Head.003
     m_Bindings:
     - m_Location: 0
