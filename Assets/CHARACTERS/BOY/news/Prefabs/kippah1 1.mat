@@ -48,8 +48,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Ints: []
-    m_Floats: []
+    m_Floats:
+    - _StencilWriteMaskDepth: 9
+    - _StencilWriteMaskGBuffer: 15
+    - _StencilWriteMaskMV: 41
     m_Colors:
-    - _BaseColor: {r: 0.11360803, g: 0.11360803, b: 0.21698111, a: 1}
-    - _Color: {r: 0.11360801, g: 0.11360801, b: 0.21698105, a: 1}
+    - _BaseColor: {r: 0.122641504, g: 0.122641504, b: 0.122641504, a: 1}
+    - _Color: {r: 0.12264148, g: 0.12264148, b: 0.12264148, a: 1}
   m_BuildTextureStacks: []
