@@ -23,14 +23,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4679178244407069179}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1255.5356, y: -0.0000038146973, z: 56.782513}
-  m_LocalScale: {x: 0.071905, y: 0.071905, z: 0.071905}
+  m_LocalScale: {x: 0.00004343273, y: 0.000057227284, z: 0.000015952}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1139914457693352732}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5489516325965605660
 GameObject:
@@ -104,8 +104,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5489516326420962806}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -17461.033, y: 0.000053048134, z: -789.6879}
+  m_LocalRotation: {x: 0.0000000074505735, y: -0.000000029802294, z: 0.0000000856816, w: 1}
+  m_LocalPosition: {x: -17461.047, y: -0.00045990944, z: -789.6775}
   m_LocalScale: {x: 13.907238, y: 13.907238, z: 13.907238}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -587,7 +587,7 @@ GameObject:
   - component: {fileID: 1139914457693352732}
   - component: {fileID: 1655207716373588511}
   - component: {fileID: 5489516327929508909}
-  - component: {fileID: 5489516327929508906}
+  - component: {fileID: 4948962060933451631}
   m_Layer: 0
   m_Name: groupNumber_0
   m_TagString: Untagged
@@ -604,7 +604,7 @@ Transform:
   m_GameObject: {fileID: 9180445821219848435}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 1.39, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.6087, y: 2.6087, z: 2.6087}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5489516326420962804}
@@ -627,13 +627,21 @@ MeshCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9180445821219848435}
   m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
   m_IsTrigger: 0
+  m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 4
+  serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7609637752724064743, guid: 4448f4b8591d15049a07c66a8cbccbe6, type: 3}
---- !u!137 &5489516327929508906
+--- !u!137 &4948962060933451631
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -683,8 +691,8 @@ SkinnedMeshRenderer:
   - {fileID: 5489516326583942001}
   - {fileID: 5489516325965605659}
   - {fileID: 5489516326452525515}
-  - {fileID: 5489516327292554503}
   - {fileID: 5489516326726451920}
+  - {fileID: 5489516327292554503}
   - {fileID: 5489516327823831078}
   - {fileID: 5489516326623774352}
   - {fileID: 5489516327767611740}
