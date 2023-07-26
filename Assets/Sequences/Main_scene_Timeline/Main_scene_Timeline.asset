@@ -27,9 +27,9 @@ MonoBehaviour:
         - rid: 1688362072966168601
         - rid: 1688362072966168602
         - rid: 5330977805422034948
-        - rid: 4497996014329790467
+        - rid: -2
         m_AvailableIndices:
-          rid: -2
+          rid: 4497996014329790468
     - rid: 1688362072966168601
       type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data:
@@ -38,7 +38,7 @@ MonoBehaviour:
         m_Start: 0
         m_Duration: 2
         m_Parent: -1
-        m_Children: 010000000200000003000000
+        m_Children: 0100000002000000
         m_Timeline: {fileID: 11400000, guid: b5bad3f67fdbf984c969fb61a5c50629, type: 2}
         m_ChildrenTrack: {fileID: -3021636115218136218, guid: b5bad3f67fdbf984c969fb61a5c50629, type: 2}
         m_DefaultChildrenTrackName: Sequences
@@ -56,19 +56,8 @@ MonoBehaviour:
         m_ChildrenTrack: {fileID: 0}
         m_DefaultChildrenTrackName: Sequences
         m_EditorialClipAsset: {fileID: 175363199655476740, guid: b5bad3f67fdbf984c969fb61a5c50629, type: 2}
-    - rid: 4497996014329790467
-      type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
-      data:
-        m_Name: E4_B
-        m_Fps: -1
-        m_Start: 245.233333333333
-        m_Duration: 2
-        m_Parent: 0
-        m_Children: 
-        m_Timeline: {fileID: 11400000, guid: 6346ab24c5f9ab44eac27a0bd5b587fe, type: 2}
-        m_ChildrenTrack: {fileID: 0}
-        m_DefaultChildrenTrackName: Sequences
-        m_EditorialClipAsset: {fileID: -3617881544287658235, guid: b5bad3f67fdbf984c969fb61a5c50629, type: 2}
+    - rid: 4497996014329790468
+      type: {class: StackInt, ns: UnityEngine.Sequences, asm: Unity.Sequences}
     - rid: 5330977805422034948
       type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data:
