@@ -156,7 +156,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 18
+  take: 19
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -164,7 +164,7 @@ MonoBehaviour:
       m_Leaf: Recordings
       m_ForceAssetFolder: 0
       m_AbsolutePath: 
-    m_FileName: movie_<Take><Time>
+    m_FileName: movie_E3_4K<Take><Time>
   m_Version: 1
   encoderSettings:
     rid: 8838772979867058179
@@ -176,7 +176,7 @@ MonoBehaviour:
       m_OutputResolution:
         m_CustomWidth: 1024
         m_CustomHeight: 1024
-        imageHeight: 480
+        imageHeight: 2160
         maxSupportedHeight: 2160
         m_AspectRatio:
           m_CustomAspectX: 1
@@ -284,7 +284,7 @@ MonoBehaviour:
         numConsecutiveBFrames: 2
         encodingProfile: 2
         keyframeDistance: 25
-        codec: 0
+        codec: 1
         encodingQuality: 2
 --- !u!114 &7114881917657922888
 MonoBehaviour:
