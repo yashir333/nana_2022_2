@@ -37,8 +37,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Wolf3D_Outfit_Footwear
-  m_Shader: {fileID: -6465566751694194690, guid: b9d29dfa1474148e792ac720cbd45122,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: b9d29dfa1474148e792ac720cbd45122, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -63,8 +62,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - baseColorTexture:
-        m_Texture: {fileID: 1317772532469624472, guid: b806702fad7f11a4198081f3e2cef368,
-          type: 3}
+        m_Texture: {fileID: 2800000, guid: a0e9138736b0ae34ab4b0998fad0c4d9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - emissiveTexture:
@@ -72,13 +70,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - metallicRoughnessTexture:
-        m_Texture: {fileID: -3642470277038872836, guid: b806702fad7f11a4198081f3e2cef368,
-          type: 3}
+        m_Texture: {fileID: -3642470277038872836, guid: b806702fad7f11a4198081f3e2cef368, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - normalTexture:
-        m_Texture: {fileID: -6032077056993899838, guid: b806702fad7f11a4198081f3e2cef368,
-          type: 3}
+        m_Texture: {fileID: -6032077056993899838, guid: b806702fad7f11a4198081f3e2cef368, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - occlusionTexture:
