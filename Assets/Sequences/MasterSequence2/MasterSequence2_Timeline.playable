@@ -331,7 +331,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 3
+  take: 4
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -339,7 +339,7 @@ MonoBehaviour:
       m_Leaf: Recordings
       m_ForceAssetFolder: 0
       m_AbsolutePath: 
-    m_FileName: E4_720<Recorder>_<Take><Time>
+    m_FileName: E4_4K<Recorder>_<Take><Time>
   m_Version: 1
   encoderSettings:
     rid: 4497995878472089608
@@ -351,7 +351,7 @@ MonoBehaviour:
       m_OutputResolution:
         m_CustomWidth: 1024
         m_CustomHeight: 1024
-        imageHeight: 720
+        imageHeight: 2160
         maxSupportedHeight: 2160
         m_AspectRatio:
           m_CustomAspectX: 1

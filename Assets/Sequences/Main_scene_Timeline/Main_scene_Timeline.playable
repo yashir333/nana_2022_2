@@ -8761,7 +8761,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 17
+  take: 18
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -8781,7 +8781,7 @@ MonoBehaviour:
       m_OutputResolution:
         m_CustomWidth: 1024
         m_CustomHeight: 1024
-        imageHeight: 720
+        imageHeight: 2160
         maxSupportedHeight: 2160
         m_AspectRatio:
           m_CustomAspectX: 1
@@ -8889,7 +8889,7 @@ MonoBehaviour:
         numConsecutiveBFrames: 2
         encodingProfile: 2
         keyframeDistance: 25
-        codec: 0
+        codec: 1
         encodingQuality: 2
 --- !u!74 &5778009907145997351
 AnimationClip:
